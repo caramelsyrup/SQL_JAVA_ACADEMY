@@ -2,9 +2,9 @@
 ## SQL의 쿼리를 이용해서 DB 관리
 ***
 <ol>
-    <ol> com.oracle.test
+    <li> com.oracle.test
         <li> 'GetEmp.java' , SELECT 문장을 이용한 테이블 출력.
-    </ol>        
+    </li>        
     <ol> com.oracle.nameCardTest
         <li> 'insert' , INSERT 문장을 이용한 테이블 입력.
         <li> 'PreparedStatement' , PreparedStatement이용.
